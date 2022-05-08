@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Sou o Douglas 👨‍💻 👋
 
-<!--
-**dougbrum/dougbrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouco sobre mim/meus interesses:
 
-Here are some ideas to get you started:
+- 👨‍💻 Ciência de dados
+- 📊 Análise de dados
+- 📈 Mestre em Matemática
+- 📉 Estatística
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades:
+
+- 🐍Python.
+- 🗄SQL.
+- 📔Power BI.
+- 🔮Machine Learning.
+
+## Onde me encontrar
+- <a href="www.linkedin.com/in/douglas-ferreira-brum-78411839">linkedin</a>
+
+## Meus projetos:
+-Em construção
